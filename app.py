@@ -5,7 +5,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 
 # ⬇⬇⬇ N A H R A Ď  touto URL svou skutečnou backend adresu ⬇⬇⬇
-API_URL = "https://TVUJ-BACKEND.onrender.com/optimize"
+API_URL = "https://portfolio-optimizer-tt81.onrender.com/optimize"
 
 st.set_page_config(page_title="Anti-Correlation Portfolio", layout="wide")
 st.title("📉 Anti-Correlation Portfolio Optimizer")
