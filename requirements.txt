@@ -9,3 +9,4 @@ pydantic
 scs
 streamlit
 requests
+matplotlib
